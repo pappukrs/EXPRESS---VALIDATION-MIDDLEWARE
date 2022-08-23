@@ -1,0 +1,24 @@
+{
+  "name": "express---validation-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pappukrs/EXPRESS---VALIDATION-MIDDLEWARE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pappukrs/EXPRESS---VALIDATION-MIDDLEWARE/issues"
+  },
+  "homepage": "https://github.com/pappukrs/EXPRESS---VALIDATION-MIDDLEWARE#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
